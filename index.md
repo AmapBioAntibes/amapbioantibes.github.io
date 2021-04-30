@@ -18,6 +18,9 @@ instagram :
 
 [principes de fonctionnement d'une Amap](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html "vers la charte")
 
+**<span style="color:red">Pour faire vivre une association, il faut la participation de tous</span>**
+
+**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant')
 
 # Producteurs
 
