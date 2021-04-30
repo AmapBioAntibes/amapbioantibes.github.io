@@ -35,6 +35,7 @@ entrée calendrier [ics](2021-05-03_ag_age.ics)
       - [planning](https://docs.google.com/spreadsheets/d/1kQtIHbiuz1QfO3mC2KlxSeN1LE4OISM_5VZG32BGA3s/edit#gid=161623625)
 * Référents : quelques mots ?
     - légumes : manque des contrats pour assurer l'écoulement production
+        + 8 mai : visite + travail dans l'exploitation
     - pain : inscrivez-vous ! (il y a beaucoup de trous)
     - ... 
 
