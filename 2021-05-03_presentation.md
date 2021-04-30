@@ -23,15 +23,22 @@ entrée calendrier [ics](2021-05-03_ag_age.ics)
   * Postes : président(e), trésorier(e), secrétair(e)
 
   
-# AG 
+# AG 18h-18h20
 
-  * démission de virginie
-  * tentative de création bureau
-  * rappels : AMAP => [charte](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html)
-  * Emargement livraisons
+* Démission de virginie en tant que "référente administrative"
+* Tentative de création bureau
+    - statuts préfecture
+    - compte bancaire : encore chez josette
+    - contact bureau_amapbioantibes @ framalistes.org
+* Rappels : AMAP => [charte](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html)
+* Emargement livraisons
       - [planning](https://docs.google.com/spreadsheets/d/1kQtIHbiuz1QfO3mC2KlxSeN1LE4OISM_5VZG32BGA3s/edit#gid=161623625)
+* Référents : quelques mots ?
+    - légumes : manque des contrats pour assurer l'écoulement production
+    - pain : inscrivez-vous ! (il y a beaucoup de trous)
+    - ... 
 
-# AG Extraordinaire
+# AG Extraordinaire : 18h20-18h40
 * Postes à renouveler :
     - Président(e)
     - Trésorier(ère)
