@@ -1,1 +1,10 @@
-theme: jekyll-theme-dinky
+encoding: utf-8
+plugins:
+  - jekyll-remote-theme
+theme: jekyll-theme-cayman
+#remote_theme:  kitian616/jekyll-TeXt-theme   # hosted on github
+
+title: Amap Bio Antibes
+description: Association l'Amap Bio d'Antibes
+email: bureau_amapbioantibes @ framalistes.org
+
