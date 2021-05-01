@@ -1,18 +1,17 @@
-<!-- disable [MD025/single-title/single-h1: Multiple top-level headings in the same] -->
 
 # Contacts
 
 Email: bureau_amapbioantibes @ framalistes.org
 
-Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/)
+Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ "ici :)")
 
-Facebook: [AMAP BIO Antiboise](https://www.facebook.com/groups/592762787877541)
+Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/592762787877541 "vers Facebook"){:target="_blank"}
 
 # Fonctionnement
 
 ## L'AMAP
 
-- la [charte des AMAP de Provence](https://www.lesamapdeprovence.org/IMG/pdf/charte_des_amap_mars_20142.pdf 'Charte des AMAP de Provence') à respecter
+- la [charte des AMAP de Provence](https://www.lesamapdeprovence.org/IMG/pdf/charte_des_amap_mars_20142.pdf 'Charte des AMAP de Provence'){:target="_blank"} à respecter
 - une cotisation de 16€ à l'année
 - un accès aux produits de nombreux producteurs BIO locaux
 - un contrat pour chaque producteur avec un engagement sur une période variable selon le contrat, par exemple:
@@ -24,23 +23,23 @@ Facebook: [AMAP BIO Antiboise](https://www.facebook.com/groups/592762787877541)
 ## Livraison
 
 - **Quand ?** Les lundi soir 18h-18h45
-- **Où ?** Sur le parking derrière les terrains de tennis derrière les pompiers au bout de la rue Line RENAUD - Loulou GASTÉ accessible à partir de l'avenue Jules Grec ([lien google maps](https://www.google.fr/maps/place/43%C2%B035'32.1%22N+7%C2%B007'07.7%22E/@43.592254,7.1177087,436m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d43.5922535!4d7.118803))
+- **Où ?** Sur le parking derrière les terrains de tennis derrière les pompiers au bout de la rue Line RENAUD - Loulou GASTÉ accessible à partir de l'avenue Jules Grec ([Carte](https://osm.org/go/xXNV~76ZR-?m= "via openstreetmap.org"){:target="_blank"})
 
 ## Inscription
 
 - Pour s'inscrire il suffit d'envoyer par mail les informations suivantes: nom, prénom, email, téléphone et adresse.
-- Vous recevrez un mail avec votre mot de passe pour vous connecter sur le site [AMAPJ - AMAP BIO Antiboise](https://contrats.amapj.fr/c/antibes).
+- Vous recevrez un mail avec votre mot de passe pour vous connecter sur le site [AMAPJ - AMAP BIO Antiboise](https://contrats.amapj.fr/c/antibes){:target="_blank"}.
 - Vous pourrez ensuite souscrire pour l'année en cours via le menu "Mes adhésions".
-- Vous pourrez ainsi souscrire aux différents contrats en cours, vous pouvez consulter [la documentation en ligne](https://amapj.fr/docs_utilisateur_adherent.html).
+- Vous pourrez ainsi souscrire aux différents contrats en cours, vous pouvez consulter [la documentation en ligne](https://amapj.fr/docs_utilisateur_adherent.html){:target="_blank"}.
 - Pour finir, il convient d'apporter le chèque d'adhésion, les contrats imprimés ainsi que tous les chèques lors de la livraison le lundi suivant (les chèques seront encaissés mois par mois).
 
 # Charte
 
-[Principes de fonctionnement d'une Amap](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html 'vers la charte')
+[Principes de fonctionnement d'une Amap](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html 'vers la charte'){:target="_blank"}
 
 **<span style="color:red">Pour faire vivre une association, il faut la participation de tous.</span>**
 
-**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant')
+**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="_blank"}
 
 # Producteurs
 
@@ -93,5 +92,5 @@ Facebook: [AMAP BIO Antiboise](https://www.facebook.com/groups/592762787877541)
 
 # Liens
 
-- [Les Amap de Provence](https://www.lesamapdeprovence.org/ 'Lien vers les Amap de Provence')
-- [Documentation sur le site AMAPJ](https://amapj.fr/docs_utilisateur_adherent.html 'Lien vers la documentation AMAPJ')
+- [Les Amap de Provence](https://www.lesamapdeprovence.org/ 'Lien vers les Amap de Provence'){:target="_blank"}
+- [Documentation sur le site AMAPJ](https://amapj.fr/docs_utilisateur_adherent.html 'Lien vers la documentation AMAPJ'){:target="_blank"}
