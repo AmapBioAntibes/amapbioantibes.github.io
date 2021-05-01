@@ -3,6 +3,8 @@
 
 Email: bureau_amapbioantibes @ framalistes.org
 
+Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5863276375","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span>
+
 Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ "ici :)")
 
 Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/592762787877541 "vers Facebook"){:target="_blank"}
