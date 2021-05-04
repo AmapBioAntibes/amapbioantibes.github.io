@@ -1,6 +1,6 @@
 # Les statuts de l'association
 
-## Dénomination : L'Amap Bio Antiboises
+## Dénomination : L'Amap Bio Antiboise
 
 ## Numéro RNA : W061004171
 
