@@ -56,7 +56,7 @@ candidat : nicolas
 
 résultats des votes :
 
-| candidat | contre | asbtention | pour |
+| candidat | contre | abstention | pour |
 |--|--|--|--|
 |nicolas|0|0|22|
 
@@ -67,7 +67,7 @@ candidate : sylvie
 
 résultats des votes :
 
-| candidat | contre | asbtention | pour |
+| candidat | contre | abstention | pour |
 |--|--|--|--|
 |sylvie|0|0|22|
 
@@ -78,7 +78,7 @@ candidat : olivier
 
 résultats des votes:
 
-| candidat | contre | asbtention | pour |
+| candidat | contre | abstention | pour |
 |--|--|--|--|
 |olivier|0|0|22|
 
