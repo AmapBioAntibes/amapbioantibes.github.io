@@ -21,6 +21,7 @@ Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/59276278
   - contrat pour livraison hebdomadaire sur 6 mois
   - contrat pour livraison toutes les 2 semaines pour 6 mois
   - contrat pour une ou plusieurs livraisons ponctuelles pour certains produits de saison
+- Les [statuts](statuts.md)
 
 ## Livraison
 
@@ -42,6 +43,8 @@ Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/59276278
 **Pour faire vivre une association, il faut la participation de tous.**{: style="color: red"}
 
 **Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="_blank"}
+
+Les différents **[rôles](roles.md "les rôles"){: target:"_blank"}** dans l'association
 
 # Producteurs
 
