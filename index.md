@@ -1,19 +1,18 @@
-
 # Contacts
 
 Email: bureau_amapbioantibes @ framalistes.org
 
 Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5863276375","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span>
 
-Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ "ici :)")
+Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ 'ici :)')
 
-Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/592762787877541 "vers Facebook"){:target="_blank"}
+Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/592762787877541 'vers Facebook'){:target="\_blank"}
 
 # Fonctionnement
 
 ## L'AMAP
 
-- la [charte des AMAP de Provence](https://www.lesamapdeprovence.org/IMG/pdf/charte_des_amap_mars_20142.pdf 'Charte des AMAP de Provence'){:target="_blank"} à respecter
+- la [charte des AMAP de Provence](https://www.lesamapdeprovence.org/IMG/pdf/charte_des_amap_mars_20142.pdf 'Charte des AMAP de Provence'){:target="\_blank"} à respecter
 - une cotisation de 16€ à l'année
 - un accès aux produits de nombreux producteurs BIO locaux
 - un contrat pour chaque producteur avec un engagement sur une période variable selon le contrat, par exemple:
@@ -21,30 +20,31 @@ Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/59276278
   - contrat pour livraison hebdomadaire sur 6 mois
   - contrat pour livraison toutes les 2 semaines pour 6 mois
   - contrat pour une ou plusieurs livraisons ponctuelles pour certains produits de saison
+
 - Les [statuts](statuts.md)
 
 ## Livraison
 
-- **Quand ?** Les lundi soir 18h-18h45
-- **Où ?** Sur le parking derrière les terrains de tennis derrière les pompiers au bout de la rue Line RENAUD - Loulou GASTÉ accessible à partir de l'avenue Jules Grec ([Carte](https://osm.org/go/xXNV~76ZR-?m= "via openstreetmap.org"){:target="_blank"})
+- **Quand ?** Les lundi soir 18h30-19h15
+- **Où ?** Sur le parking derrière les terrains de tennis derrière les pompiers au bout de la rue Line RENAUD - Loulou GASTÉ accessible à partir de l'avenue Jules Grec ([Carte](https://osm.org/go/xXNV~76ZR-?m= 'via openstreetmap.org'){:target="\_blank"})
 
 ## Inscription
 
 - Pour s'inscrire il suffit d'envoyer par mail les informations suivantes: nom, prénom, email, téléphone et adresse.
-- Vous recevrez un mail avec votre mot de passe pour vous connecter sur le site [AMAPJ - AMAP BIO Antiboise](https://contrats.amapj.fr/c/antibes){:target="_blank"}.
+- Vous recevrez un mail avec votre mot de passe pour vous connecter sur le site [AMAPJ - AMAP BIO Antiboise](https://contrats.amapj.fr/c/antibes){:target="\_blank"}.
 - Vous pourrez ensuite souscrire pour l'année en cours via le menu "Mes adhésions".
-- Vous pourrez ainsi souscrire aux différents contrats en cours, vous pouvez consulter [la documentation en ligne](https://amapj.fr/docs_utilisateur_adherent.html){:target="_blank"}.
+- Vous pourrez ainsi souscrire aux différents contrats en cours, vous pouvez consulter [la documentation en ligne](https://amapj.fr/docs_utilisateur_adherent.html){:target="\_blank"}.
 - Pour finir, il convient d'apporter le chèque d'adhésion, les contrats imprimés ainsi que tous les chèques lors de la livraison le lundi suivant (les chèques seront encaissés mois par mois).
 
 # Charte
 
-[Principes de fonctionnement d'une Amap](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html 'vers la charte'){:target="_blank"}
+[Principes de fonctionnement d'une Amap](https://www.lesamapdeprovence.org/-La-Charte-des-AMAP,231-.html 'vers la charte'){:target="\_blank"}
 
 **Pour faire vivre une association, il faut la participation de tous.**{: style="color: red"}
 
-**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="_blank"}
+**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="\_blank"}
 
-Les différents **[rôles](roles.html "les rôles"){: target:"_blank"}** dans l'association
+Les différents **[rôles](roles.html 'les rôles'){: target:"\_blank"}** dans l'association
 
 # Producteurs
 
@@ -97,5 +97,5 @@ Les différents **[rôles](roles.html "les rôles"){: target:"_blank"}** dans l'
 
 # Liens
 
-- [Les Amap de Provence](https://www.lesamapdeprovence.org/ 'Lien vers les Amap de Provence'){:target="_blank"}
-- [Documentation sur le site AMAPJ](https://amapj.fr/docs_utilisateur_adherent.html 'Lien vers la documentation AMAPJ'){:target="_blank"}
+- [Les Amap de Provence](https://www.lesamapdeprovence.org/ 'Lien vers les Amap de Provence'){:target="\_blank"}
+- [Documentation sur le site AMAPJ](https://amapj.fr/docs_utilisateur_adherent.html 'Lien vers la documentation AMAPJ'){:target="\_blank"}
