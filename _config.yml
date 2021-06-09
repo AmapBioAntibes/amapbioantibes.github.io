@@ -4,8 +4,8 @@ plugins:
 theme: jekyll-theme-cayman
 #remote_theme:  kitian616/jekyll-TeXt-theme   # hosted on github
 
-title: Amap Bio Antibes
-description: Association l'Amap Bio d'Antibes
+title: AMAP Bio Antibes
+description: Association l'AMAP Bio Antiboise
 email: bureau_amapbioantibes @ framalistes.org
 
 show_downloads: false
