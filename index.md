@@ -30,11 +30,12 @@ Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/59276278
 
 ## Inscription
 
-- Pour s'inscrire il suffit d'envoyer par mail les informations suivantes: nom, prénom, email, téléphone et adresse.
+- Pour s'inscrire, venez nous rendre visite un lundi sur le lieu de livraison (indiqué plus haut) avec un chèque pour votre adhésion.
+- Un compte sur AMAPJ sera créé avec les informations suivantes: nom, prénom, email, téléphone et adresse. Vous serez également ajouté à un groupe WhatsApp et à la mailing liste [amapiens_amapbioantibes@framalistes.org](https://framalistes.org/sympa/info/amapiens_amapbioantibes) afin de rester informer.
 - Vous recevrez un mail avec votre mot de passe pour vous connecter sur le site [AMAPJ - AMAP BIO Antiboise](https://contrats.amapj.fr/c/antibes){:target="\_blank"}.
 - Vous pourrez ensuite souscrire pour l'année en cours via le menu "Mes adhésions".
 - Vous pourrez ainsi souscrire aux différents contrats en cours, vous pouvez consulter [la documentation en ligne](https://amapj.fr/docs_utilisateur_adherent.html){:target="\_blank"}.
-- Pour finir, il convient d'apporter le chèque d'adhésion, les contrats imprimés ainsi que tous les chèques lors de la livraison le lundi suivant (les chèques seront encaissés mois par mois).
+- Pour finir, il convient d'apporter les contrats imprimés ainsi que tous les chèques lors de la livraison le lundi suivant (les chèques seront encaissés mois par mois).
 
 # Charte
 
