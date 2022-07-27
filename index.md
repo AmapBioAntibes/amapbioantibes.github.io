@@ -75,7 +75,7 @@ Les différents **[rôles](roles.html 'les rôles'){: target:"\_blank"}** dans l
 
 # Aperçu des produits et tarifs
 
-- 20€ le panier de légumes
+- 22€ le panier de légumes
 - 500gr de champignons: de Paris à 5€, Pleurotes à 10€, Shiitake à 10€
 - 3€ la boîte de 6 oeufs, 20€ d'acompte par poulet (12€/kg)
 - 8€ le lot de 2 fromages de chèvres, 6€ les 6 faiselles
@@ -85,7 +85,7 @@ Les différents **[rôles](roles.html 'les rôles'){: target:"\_blank"}** dans l
 - miel 250gr à 5.5€, 500gr à 9€, 1kg à 17€
 - sorbet à 8€ les 75cl
 - colis de 5kg de viande de porc à 65€, pâté ou rillettes à 5€, saucisson, saucisse sèche, chorizo aux alentours de 6€
-- pain de 900gr: campagne 4,50€, sans gluten à 5€, céréales, petit épeautre, cétogène ou surprise à 5,5€
+- pain de 900gr: campagne 5€, sans gluten, céréales, petit épeautre, cétogène ou surprise à 5,50€
 - brioche tressée 5€, brioche 800gr 10€
 - bière 33cl 2,50€ et bière 75cl 5,60€
 - colis de veau de 7kg à 20€/kg
