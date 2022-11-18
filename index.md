@@ -1,8 +1,10 @@
+<!-- Page d'accueil -->
+
 # Contacts
 
 Email: bureau_amapbioantibes @ framalistes.org
 
-Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5863276375","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span>
+Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5863276375","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span><!-- markdownlint-disable-line MD033 -->
 
 Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ 'ici :)')
 
@@ -49,15 +51,21 @@ Les différents **[rôles](roles.html 'les rôles'){: target:"\_blank"}** dans l
 
 # Producteurs
 
-- Légumes AB : Les Jardins du sapeton
+<!-- Lien pour éditer la carte des producteurs
+  http://umap.openstreetmap.fr/en/map/anonymous-edit/835079:MHGeXdv4SEPDsnJh26DkC9Wzu8A
+-->
+
+Voir les producteurs sur [la carte](http://u.osmfr.org/m/835079/){:target="\_blank"}.
+
+- Légumes AB : Julien LESNE - Les Jardins du sapeton
 - Champignons : Christian BOSELLI
-- Œufs et poulets AB : Christian BERMOND
+- Poulets et oeufs AB : Christian BERMOND
 - Viande de porc et charcuterie AB : Sébastien et Marine GOHIER - Élevage du Lauzon
-- Viande de veau et bœuf AB : Stéphane MAILLARD
-- Fromages de chèvre et faisselles AB : Chèvrerie de Valbonne
-- Pommes, vin AB : Bruno DEBON
-- Fruits Rouges et produits dérivés AB : Anne GIRAUD
-- Agrumes AB : Jean Noël FALCOU
+- Viande de veau et boeuf AB : Stéphane MAILLARD
+- Fromages de chèvre et faisselles AB : Françoise DURST - Chèvrerie de Valbonne
+- Pommes, poires, jus, vin AB : Bruno DEBON
+- Fruits Rouges transformés AB : Anne GIRAUD
+- Agrumes AB : Adrien STRUTYNSKI
 - Truites AB : Pierre PHILIP - Les Truites du Cheiron
 - Pain : Jean-Sébastien GROS
 - Miel et gelée royale AB : Laurent GENERO
