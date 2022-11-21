@@ -108,3 +108,4 @@ Voir les producteurs sur [la carte](http://u.osmfr.org/m/835079/){:target="\_bla
 
 - [Les Amap de Provence](https://www.lesamapdeprovence.org/ 'Lien vers les Amap de Provence'){:target="\_blank"}
 - [Documentation sur le site AMAPJ](https://amapj.fr/docs_utilisateur_adherent.html 'Lien vers la documentation AMAPJ'){:target="\_blank"}
+- [Les AMAPs sur AMPAJ](https://amapj.fr/carte.html){:target="\_blank"}
