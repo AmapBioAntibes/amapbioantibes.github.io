@@ -4,7 +4,7 @@
 
 Email: bureau_amapbioantibes @ framalistes.org
 
-Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5863276375","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span><!-- markdownlint-disable-line MD033 -->
+Tél: <span id="telephone" onmouseover='var old_content=changeContent(this,decipher("5881452050","52123"))' onmouseout='this.textContent=old_content' alt="passer la souris au dessus" style="color: LightCoral">voir le numéro</span><!-- markdownlint-disable-line MD033 -->
 
 Site web: [AMAP BIO Antibes](https://amapbioantibes.github.io/ 'ici :)')
 
@@ -45,7 +45,7 @@ Facebook: [AMAP BIO Antiboise Facebook](https://www.facebook.com/groups/59276278
 
 **Pour faire vivre une association, il faut la participation de tous.**{: style="color: red"}
 
-**Dépliant** : [2021 Dépliant Amap Bio Antibes](2021_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="\_blank"}
+**Dépliant** : [2024 Dépliant Amap Bio Antibes](2024_Flyer_AMAP_Bio_Antibes_a4.pdf 'Dépliant'){:target="\_blank"}
 
 Les différents **[rôles](roles.html 'les rôles'){: target:"\_blank"}** dans l'association
 
@@ -83,17 +83,17 @@ Voir les producteurs sur [la carte](http://u.osmfr.org/m/835079/){:target="\_bla
 
 # Aperçu des produits et tarifs
 
-- 22€ le panier de légumes
+- 23€ le panier de légumes
 - 500gr de champignons: de Paris à 5€, Pleurotes à 10€, Shiitake à 10€
-- 3€ la boîte de 6 oeufs, 20€ d'acompte par poulet (12€/kg)
-- 8€ le lot de 2 fromages de chèvres, 6€ les 6 faiselles
+- 3.10€ la boîte de 6 oeufs, 21€ d'acompte par poulet (13.50€/kg)
+- 8.40€ le lot de 2 fromages de chèvres, 7€ les 6 faiselles
 - 21€ la cagette de 7kg de pommes, 24€ le carton de 6l de jus de pommes
 - 7€ pour 2kg de clémentines, 3,50€ le kg de citron, 2€ le kg d'orange, 8€ le flacon de 100ml de fleur d'oranger
 - pot de crème de marrons ou confiture entre 3,50€ et 4€
 - miel 250gr à 5.5€, 500gr à 9€, 1kg à 17€
 - sorbet à 8€ les 75cl
 - colis de 5kg de viande de porc à 65€, pâté ou rillettes à 5€, saucisson, saucisse sèche, chorizo aux alentours de 6€
-- pain de 900gr: campagne 5€, sans gluten, céréales, petit épeautre, cétogène ou surprise à 5,50€
+- pain de 900gr: campagne 5.50€, sans gluten, céréales, petit épeautre, cétogène ou surprise à 6€
 - brioche tressée 5€, brioche 800gr 10€
 - bière 33cl 2,50€ et bière 75cl 5,60€
 - colis de veau de 7kg à 20€/kg
